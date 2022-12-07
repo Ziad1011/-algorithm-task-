@@ -1,1 +1,2 @@
-# algorithm-task-
+# algorithm-tasks
+code by js
