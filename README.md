@@ -1,1 +1,1 @@
-# -algorithm-task-
+# algorithm-task-
